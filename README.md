@@ -1,4 +1,4 @@
-OLA SEJA BEM VINDO!
+OLA, SEJA BEM VINDO!
 ------------------------
 • ola, eu sou luiz guilherme um estudante de programação com um objetivo de trabalhar com desenvolvimento fullstack
 
@@ -8,6 +8,17 @@ OLA SEJA BEM VINDO!
 
 • proximos objetivo: aprender java/javascript + frameworks e conseguir um estagio
 
+==============================
+
+Hello and welcome
+-----------------------------
+• hello, my name is luiz guilherme and i am a programming student with a goal to work with fullstack development 
+
+• i'm studying system analisys and development
+
+• programming in python and sql languages 
+
+• next goals: learn java/javascript + frameworks and get a internship
 
 
 ![banner](https://github.com/guigokw/guigokw/assets/156839451/684e397f-6547-4374-b803-80d8ed939882)
