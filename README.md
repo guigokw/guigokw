@@ -1,5 +1,3 @@
-/storage/emulated/0/Download/giphy.gif
-
 OLA, SEJA BEM VINDO!
 ------------------------
 • ✏️ ola, eu sou luiz guilherme um estudante de programação com um objetivo de trabalhar com desenvolvimento fullstack
