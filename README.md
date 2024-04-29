@@ -1,6 +1,6 @@
 OLA, SEJA BEM VINDO!
 ------------------------
-• ✏️ ola, eu sou luiz guilherme um estudante de programação com um objetivo de trabalhar com desenvolvimento fullstack
+• ✏️ ola, eu sou luiz guilherme um estudante de programação com um objetivo de trabalhar com desenvolvimento de software
 
 • 💡 este perfil foi feito para compartilhar meu aprendizado e mostrar minhas habilidades como programador
 
