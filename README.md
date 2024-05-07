@@ -12,7 +12,7 @@ OLA, SEJA BEM VINDO!
 
 email: ✉️ guigo17ribeiro@gmail.com
 
-==============================
+______________________________
 
 Hello and welcome!
 -----------------------------
