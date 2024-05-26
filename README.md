@@ -16,7 +16,7 @@ ______________________________
 
 Hello and welcome!
 -----------------------------
-• ✏️ hello, my name is luiz guilherme and i am a programming student with a goal to work with fullstack development 
+• ✏️ hello, my name is luiz guilherme and i am a programming student with a goal to work with software development 
 
 • 💡 This profile was created to share my learning journey and showcase my skills as a programmer.
 
