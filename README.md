@@ -30,3 +30,5 @@ Hello and welcome!
 email: ✉️ guigo17ribeiro@gmail.com
 
 ![banner](https://github.com/guigokw/guigokw/assets/156839451/684e397f-6547-4374-b803-80d8ed939882)
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
