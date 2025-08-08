@@ -6,8 +6,8 @@ OLA, SEJA BEM VINDO!
 
 • 💻 objetivos: 
 - aprimorar meus conhecimentos
-- ingressar na faculdade
-- e por fim, conseguir um emprego na area
+- entrar na faculdade ✅
+- conseguir um emprego na area
 
 
 email: ✉️ guigo17ribeiro@gmail.com
@@ -26,7 +26,7 @@ Hello and welcome!
 • 💻 Objectives:
 
 - Enhance my knowledge
-- Enroll in college
+- Enroll in college ✅
 - Ultimately, secure a job in the field
 
 
